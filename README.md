@@ -23,7 +23,7 @@ Lack of explainability and ownership
 
 As a result, AI risks are often unmanaged, undocumented, or discovered too late—after incidents or regulatory scrutiny.
 
-💡 Solution Overview
+# 💡 Solution Overview
 
 EX360-AIRR introduces an AI governance framework that:
 
@@ -39,7 +39,7 @@ Automatically creates mitigation actions for approved risks
 
 Maintains a complete, audit-ready risk lifecycle
 
-🧠 Key Capabilities
+# 🧠 Key Capabilities
 1. AI Risk Identification
 
 Centralized AI Risk Register
@@ -82,7 +82,7 @@ Approved risks pending mitigation
 
 Ongoing mitigation status tracking
 
-🏗️ Architecture Overview
+# 🏗️ Architecture Overview
 
 Core Tables
 
@@ -98,7 +98,7 @@ Flow Designer for approvals and mitigation creation
 
 Dashboards for AI governance visibility
 
-📸 Screenshots
+# 📸 Screenshots
 
 Included screenshots:
 
@@ -112,7 +112,7 @@ AI risk governance dashboard
 
 (See /screenshots folder)
 
-🧭 Module Alignment
+# 🧭 Module Alignment
 
 Primary Module: ServiceNow GRC / IRM
 
@@ -120,7 +120,7 @@ Secondary Domains: AI Governance, Compliance, Enterprise Risk
 
 This project reflects real-world AI governance patterns emerging across regulated enterprises.
 
-🚀 Why This Project Matters
+# 🚀 Why This Project Matters
 
 EX360-AIRR demonstrates how organizations can govern AI without slowing innovation by:
 
