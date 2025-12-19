@@ -1,13 +1,13 @@
 # ServiceNow_GRC_Project7
-Enterprise AI Risk Register &amp; Governance (ServiceNow GRC)
+# Enterprise AI Risk Register &amp; Governance (ServiceNow GRC)
 Enterprise AI Risk Register & Governance (ServiceNow GRC)
 
-EX360-AIRR is an enterprise-grade AI Risk Governance solution built on ServiceNow GRC.
+# EX360-AIRR is an enterprise-grade AI Risk Governance solution built on ServiceNow GRC.
 It demonstrates how organizations can systematically identify, assess, approve, and mitigate AI-specific risks with explainable logic and human oversight.
 
 This project focuses on governing AI responsibly, ensuring accountability, auditability, and regulatory readiness as AI adoption scales.
 
-🎯 Business Problem
+# 🎯 Business Problem
 
 As enterprises rapidly adopt AI systems, traditional risk registers fail to address AI-specific risks such as:
 
